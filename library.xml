@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>Дюна</title>
+        <author>Френк Герберт</author>
+        <year>1965</year>
+        <genre>Фантастика</genre>
+        <price>10.99</price>
+    </book>
+    <book id="2">
+        <title>451 градус по Фаренгейту</title>
+        <author>Рей Бредбери</author>
+        <year>1953</year>
+        <genre>Фантастика</genre>
+        <price>8.99</price>
+    </book>
+    <book id="3">
+        <title>12 Стульев</title>
+        <author>Илья Ильф и Евгений Петров</author>
+        <year>1928</year>
+        <genre>Роман</genre>
+        <price>7.99</price>
+    </book>
+</library>
